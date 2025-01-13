@@ -1,0 +1,4 @@
+Some usefull settings for MacOS:
+
+Disable Apple Music by pressing Play keyboard button:
+launchctl unload -w /System/Library/LaunchAgents/com.apple.rcd.plist
